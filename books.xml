@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  
+<reviews start="1" end="15" total="15">
+    <review>
+  <id>2415841398</id>
+    <book>
+  <id type="integer">281818</id>
+  <isbn>0684832674</isbn>
+  <isbn13>9780684832678</isbn13>
+  <text_reviews_count type="integer">170</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.6nVL-xp0v3tm9-KBqK6Xdw</uri>
+  <title>Where Wizards Stay Up Late: The Origins of the Internet</title>
+  <title_without_series>Where Wizards Stay Up Late: The Origins of the Internet</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1405259838m/281818.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1405259838s/281818.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/281818.Where_Wizards_Stay_Up_Late</link>
+  <num_pages>304</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Simon &amp; Schuster</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>1998</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.88</average_rating>
+  <ratings_count>3074</ratings_count>
+  <description>Twenty five years ago, it didn't exist. Today, twenty million people worldwide are surfing the Net. Where Wizards Stay Up Late is the exciting story of the pioneers responsible for creating the most talked about, most influential, and most far-reaching communications breakthrough since the invention of the telephone. &lt;br /&gt;&lt;br /&gt;In the 1960's, when computers where regarded as mere giant calculators, J.C.R. Licklider at MIT saw them as the ultimate communications devices. With Defense Department funds, he and a band of visionary computer whizzes began work on a nationwide, interlocking network of computers. Taking readers behind the scenes, Where Wizards Stay Up Late captures the hard work, genius, and happy accidents of their daring, stunningly successful venture.</description>
+<authors>
+<author>
+<id>6938812</id>
+<name>Katie  Hafner</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1361309234p5/6938812.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1361309234p2/6938812.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6938812.Katie_Hafner]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>6895</ratings_count>
+<text_reviews_count>716</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+<work>  <id>1290875</id>
+  <uri>kca://work/amzn1.gr.work.v1.-fbtsLMX9LYPITTS45TfNg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='269517123' name='to-read' review_shelf_id='2062453914' sortable='true'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 06 18:24:55 -0700 2018</date_added>
+  <date_updated>Wed Jun 06 18:25:04 -0700 2018</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2415841398]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2415841398]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2415841134</id>
+    <book>
+  <id type="integer">796506</id>
+  <isbn>0262540673</isbn>
+  <isbn13>9780262540674</isbn13>
+  <text_reviews_count type="integer">10</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.7VQAIC3ZcrKNDpfy075beg</uri>
+  <title>What Computers Still Can't Do: A Critique of Artificial Reason</title>
+  <title_without_series>What Computers Still Can't Do: A Critique of Artificial Reason</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/796506.What_Computers_Still_Can_t_Do</link>
+  <num_pages>408</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Mit Press</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>1992</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.10</average_rating>
+  <ratings_count>124</ratings_count>
+  <description>When it was first published in 1972, Hubert Dreyfus's manifesto on the inherent inability of disembodied machines to mimic higher mental functions caused an uproar in the artificial intelligence community. The world has changed since then. Today it is clear that "good old-fashioned AI," based on the idea of using symbolic representations to produce general intelligence, is in decline (although several believers still pursue its pot of gold), and the focus of the AI community has shifted to more complex models of the mind. It has also become more common for AI researchers to seek out and study philosophy. For this edition of his now classic book, Dreyfus has added a lengthy new introduction outlining these changes and assessing the paradigms of connectionism and neural networks that have transformed the field. At a time when researchers were proposing grand plans for general problem solvers and automatic translation machines, Dreyfus predicted that they would fail because their conception of mental functioning was naive, and he suggested that they would do well to acquaint themselves with modern philosophical approaches to human being. "What Computers Still Can't Do" was widely attacked but quietly studied. Dreyfus's arguments are still provocative and focus our attention once again on what it is that makes human beings unique.</description>
+<authors>
+<author>
+<id>30234</id>
+<name>Hubert L. Dreyfus</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1330508777p5/30234.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1330508777p2/30234.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/30234.Hubert_L_Dreyfus]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>2612</ratings_count>
+<text_reviews_count>322</text_reviews_count>
+</author>
+</authors>
+  <published>1992</published>
+<work>  <id>782476</id>
+  <uri>kca://work/amzn1.gr.work.v1.liWAW8e9oAymMQIrXVhuTA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='269517123' name='to-read' review_shelf_id='2062453498' sortable='true'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 06 18:24:39 -0700 2018</date_added>
+  <date_updated>Wed Jun 06 18:24:40 -0700 2018</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2415841134]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2415841134]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2415840885</id>
+    <book>
+  <id type="integer">22326</id>
+  <isbn>0140157727</isbn>
+  <isbn13>9780140157727</isbn13>
+  <text_reviews_count type="integer">313</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.aAH_WGYFQxaGbMCe_d17HQ</uri>
+  <title>Virtual Light (Bridge, #1)</title>
+  <title_without_series>Virtual Light</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1409238094m/22326.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1409238094s/22326.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22326.Virtual_Light</link>
+  <num_pages>304</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Books Ltd</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>1996</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.84</average_rating>
+  <ratings_count>19276</ratings_count>
+  <description>Berry Rydell, an ex-cop, signs on with IntenSecure Armed Response in Los Angeles. He finds himself on a collision course that results in a desperate romance, and a journey into the ecstasy and dread that mirror each other at the heart of the postmodern experience.</description>
+<authors>
+<author>
+<id>9226</id>
+<name>William Gibson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1373826214p5/9226.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1373826214p2/9226.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9226.William_Gibson]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>501574</ratings_count>
+<text_reviews_count>19570</text_reviews_count>
+</author>
+</authors>
+  <published>1996</published>
+<work>  <id>953941</id>
+  <uri>kca://work/amzn1.gr.work.v1.2rvLuqjnavq7J0di-AfkDw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='269517123' name='to-read' review_shelf_id='2062453250' sortable='true'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 06 18:24:24 -0700 2018</date_added>
+  <date_updated>Wed Jun 06 18:24:25 -0700 2018</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2415840885]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2415840885]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2415840712</id>
+    <book>
+  <id type="integer">17261233</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.SUtQTEQXhOq3bw2OpsnS3w</uri>
+  <title>The Telekommunist Manifesto</title>
+  <title_without_series>The Telekommunist Manifesto</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1449848427m/17261233.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1449848427s/17261233.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17261233-the-telekommunist-manifesto</link>
+  <num_pages>58</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>22</ratings_count>
+  <description>In the age of international telecommunications, global migration and the emergence of the information economy, how can class conflict and property be understood? Drawing from political economy and concepts related to intellectual property, The Telekommunist Manifesto is a key contribution to commons-based, collaborative and shared forms of cultural production and economic distribution.</description>
+<authors>
+<author>
+<id>6897341</id>
+<name>Dmytri Kleiner</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6897341.Dmytri_Kleiner]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>22</ratings_count>
+<text_reviews_count>2</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>23857357</id>
+  <uri>kca://work/amzn1.gr.work.v1.Lb_srCHQMY-bD0ICK5bCwg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='269517123' name='to-read' review_shelf_id='2062453066' sortable='true'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 06 18:24:12 -0700 2018</date_added>
+  <date_updated>Wed Jun 06 18:24:13 -0700 2018</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2415840712]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2415840712]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2415840379</id>
+    <book>
+  <id type="integer">942560</id>
+  <isbn>1882114981</isbn>
+  <isbn13>9781882114986</isbn13>
+  <text_reviews_count type="integer">20</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.36Snj3Ca30hB3K1vR_SBag</uri>
+  <title>Free Software, Free Society: Selected Essays</title>
+  <title_without_series>Free Software, Free Society: Selected Essays</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/942560.Free_Software_Free_Society</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.14</average_rating>
+  <ratings_count>345</ratings_count>
+  <description>&lt;p&gt;This collection includes historical writings such as The GNU Manifesto, which defined and launched the activist Free Software Movement, along with new writings on hot topics in copyright, patent law, and the controversial issue of "trusted computing."&lt;br /&gt;Stallman takes a critical look at common abuses of copyright law and&lt;br /&gt;patents when applied to computer software programs, and how these&lt;br /&gt;abuses damage our entire society and remove our existing freedoms. He&lt;br /&gt;also discusses the social aspects of software and how free software&lt;br /&gt;can create community and social justice.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Given the current turmoil in copyright and patent laws, including&lt;br /&gt;the DMCA and proposed CBDTPA, these essays are more relevant than&lt;br /&gt;ever. Stallman tackles head-on the essential issues driving the&lt;br /&gt;current changes in copyright law. He argues that for creativity to&lt;br /&gt;flourish, software must be free of inappropriate and overly-broad&lt;br /&gt;legal constraints. Over the past twenty years his arguments and&lt;br /&gt;actions have changed the course of software history; this new book is&lt;br /&gt;sure to impact the future of software and legal policies in the years&lt;br /&gt;to come.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Lawrence Lessig, the author of two well-known books on similar topics,&lt;br /&gt;writes the introduction. He is a noted legal expert on copyright law&lt;br /&gt;and a Stanford Law School professor. &lt;/p&gt;</description>
+<authors>
+<author>
+<id>318269</id>
+<name>Richard M. Stallman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1308056730p5/318269.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1308056730p2/318269.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/318269.Richard_M_Stallman]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>1489</ratings_count>
+<text_reviews_count>93</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>927497</id>
+  <uri>kca://work/amzn1.gr.work.v1.Cc90ZGRm7uFDDONnB_-tlg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='269517123' name='to-read' review_shelf_id='2062452699' sortable='true'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 06 18:23:51 -0700 2018</date_added>
+  <date_updated>Wed Jun 06 18:23:51 -0700 2018</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2415840379]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2415840379]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2415840112</id>
+    <book>
+  <id type="integer">722414</id>
+  <isbn>0914845497</isbn>
+  <isbn13>9780914845492</isbn13>
+  <text_reviews_count type="integer">18</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.3Z_bw33abky3itEaycy2nA</uri>
+  <title>Computer Lib; Dream Machines</title>
+  <title_without_series>Computer Lib; Dream Machines</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1372310560m/722414.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1372310560s/722414.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/722414.Computer_Lib_Dream_Machines</link>
+  <num_pages>336</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Microsoft Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1987</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.57</average_rating>
+  <ratings_count>83</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>3092539</id>
+<name>Theodore H. Nelson</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3092539.Theodore_H_Nelson]]></link>
+<average_rating>4.53</average_rating>
+<ratings_count>79</ratings_count>
+<text_reviews_count>19</text_reviews_count>
+</author>
+</authors>
+  <published>1987</published>
+<work>  <id>708652</id>
+  <uri>kca://work/amzn1.gr.work.v1.ShUdIMdypEx31Ug3zbhxeA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='269517123' name='to-read' review_shelf_id='2062452424' sortable='true'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 06 18:23:34 -0700 2018</date_added>
+  <date_updated>Wed Jun 06 18:23:34 -0700 2018</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2415840112]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2415840112]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2415839893</id>
+    <book>
+  <id type="integer">13020367</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Wmz1Hehqdg96MQBuRpguDw</uri>
+  <title>Code: The Hidden Language of Computer Hardware and Software</title>
+  <title_without_series>Code: The Hidden Language of Computer Hardware and Software</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13020367-code</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher/>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>4.38</average_rating>
+  <ratings_count>4558</ratings_count>
+  <description>What do flashlights, the British invasion, black cats, and seesaws have to do with computers? In &lt;i&gt;CODE&lt;/i&gt;, they show us the ingenious ways we manipulate language and invent new means of communicating with each other. And through &lt;i&gt;CODE&lt;/i&gt;, we see how this ingenuity and our very human compulsion to communicate have driven the technological innovations of the past two centuries.&lt;br /&gt;&lt;br /&gt;Using everyday objects and familiar language systems such as Braille and Morse code, author Charles Petzold weaves an illuminating narrative for anyone who’s ever wondered about the secret inner life of computers and other smart machines.&lt;br /&gt;&lt;br /&gt;It’s a cleverly illustrated and eminently comprehensible story—and along the way, you’ll discover you’ve gained a real context for understanding today’s world of PCs, digital media, and the Internet. No matter what your level of technical savvy, &lt;i&gt;CODE&lt;/i&gt; will charm you—and perhaps even awaken the technophile within.&lt;br /&gt;</description>
+<authors>
+<author>
+<id>25169</id>
+<name>Charles Petzold</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/25169.Charles_Petzold]]></link>
+<average_rating>4.20</average_rating>
+<ratings_count>7025</ratings_count>
+<text_reviews_count>501</text_reviews_count>
+</author>
+</authors>
+  <published/>
+<work>  <id>44204</id>
+  <uri>kca://work/amzn1.gr.work.v1.VdfEjMjjL98D1r37WzVZpw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='269517123' name='to-read' review_shelf_id='2062452179' sortable='true'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 06 18:23:19 -0700 2018</date_added>
+  <date_updated>Wed Jun 06 18:23:20 -0700 2018</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2415839893]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2415839893]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2415839536</id>
+    <book>
+  <id type="integer">1708082</id>
+  <isbn>0899193021</isbn>
+  <isbn13>9780899193021</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.86yRYTlIfqor-FYXd9wUNg</uri>
+  <title>Bit by Bit: An Illustrated History of Computers</title>
+  <title_without_series>Bit by Bit: An Illustrated History of Computers</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1708082.Bit_by_Bit</link>
+  <num_pages/>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.13</average_rating>
+  <ratings_count>15</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>786239</id>
+<name>Stan Augarten</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/786239.Stan_Augarten]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>17</ratings_count>
+<text_reviews_count>1</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>1705252</id>
+  <uri>kca://work/amzn1.gr.work.v1.eVl2zf607EQj2QPjpOHLSQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='269517123' name='to-read' review_shelf_id='2062451826' sortable='true'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 06 18:22:58 -0700 2018</date_added>
+  <date_updated>Wed Jun 06 18:22:58 -0700 2018</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2415839536]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2415839536]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2415839055</id>
+    <book>
+  <id type="integer">7147817</id>
+  <isbn>0578011891</isbn>
+  <isbn13>9780578011899</isbn13>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.gDsuIk95yDobeWV3rZOGsg</uri>
+  <title>After the Software Wars</title>
+  <title_without_series>After the Software Wars</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7147817-after-the-software-wars</link>
+  <num_pages>304</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.27</average_rating>
+  <ratings_count>67</ratings_count>
+  <description>Given the technology that's already available, we should have cars that drive us around, in absolute safety, while we lounge in the back and sip champagne. All we need is a video camera on the roof, plugged into a PC, right? We have all the necessary hardware, and have had it for years, but don't yet have robot-driven cars because we don't have the software. This book explains how we can build better software and all get our own high-tech chauffeur.</description>
+<authors>
+<author>
+<id>3171876</id>
+<name>Keith Cary Curtis</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3171876.Keith_Cary_Curtis]]></link>
+<average_rating>3.27</average_rating>
+<ratings_count>67</ratings_count>
+<text_reviews_count>13</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>7412659</id>
+  <uri>kca://work/amzn1.gr.work.v1.uprxVRm5pCRye7V0tdX1UQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='269517123' name='to-read' review_shelf_id='2062451374' sortable='true'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 06 18:22:31 -0700 2018</date_added>
+  <date_updated>Wed Jun 06 18:22:32 -0700 2018</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2415839055]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2415839055]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2415832943</id>
+    <book>
+  <id type="integer">56829</id>
+  <isbn>0141000511</isbn>
+  <isbn13>9780141000510</isbn13>
+  <text_reviews_count type="integer">243</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.2UmKm2oH-0uI5LkzTAKi9A</uri>
+  <title>Hackers: Heroes of the Computer Revolution</title>
+  <title_without_series>Hackers: Heroes of the Computer Revolution</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/56829.Hackers</link>
+  <num_pages>464</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2001</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.14</average_rating>
+  <ratings_count>5970</ratings_count>
+  <description>A mere fifteen years ago, computer nerds were seen as marginal weirdos, outsiders whose world would never resonate with the mainstream. That was before one pioneering work documented the underground computer revolution that was about to change our world forever. With groundbreaking profiles of Bill Gates, Steve Wozniak, MIT's Tech Model Railroad Club, and more, Steven Levy's &lt;i&gt;Hackers&lt;/i&gt; brilliantly captured a seminal moment when the risk-takers and explorers were poised to conquer twentieth-century America's last great frontier. And in the Internet age, the hacker ethic-first espoused here-is alive and well.</description>
+<authors>
+<author>
+<id>32131</id>
+<name>Steven Levy</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/32131.Steven_Levy]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>33738</ratings_count>
+<text_reviews_count>1358</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+<work>  <id>1407224</id>
+  <uri>kca://work/amzn1.gr.work.v1.WHjr8CMpYIe9JgdioU1n_Q</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='269517124' name='currently-reading' review_shelf_id='2062445037' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jun 06 18:16:02 -0700 2018</started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 06 18:16:02 -0700 2018</date_added>
+  <date_updated>Wed Jun 06 18:16:02 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2415832943]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2415832943]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2415832469</id>
+    <book>
+  <id type="integer">7090</id>
+  <isbn>0316491977</isbn>
+  <isbn13>9780316491976</isbn13>
+  <text_reviews_count type="integer">358</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.X3NT6P0Zm40MLhkROTZ93w</uri>
+  <title>The Soul of a New Machine</title>
+  <title_without_series>The Soul of a New Machine</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine</link>
+  <num_pages>293</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Back Bay Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.10</average_rating>
+  <ratings_count>5042</ratings_count>
+  <description>The computer revolution brought with it new methods of getting work done—just look at today's news for reports of hard-driven, highly-motivated young software and online commerce developers who sacrifice evenings and weekends to meet impossible deadlines. Tracy Kidder got a preview of this world in the late 1970s when he observed the engineers of Data General design and build a new 32-bit minicomputer in just one year. His thoughtful, prescient book, &lt;i&gt;The Soul of a New Machine&lt;/i&gt;, tells stories of 35-year-old "veteran" engineers hiring recent college graduates and encouraging them to work harder and faster on complex and difficult projects, exploiting the youngsters' ignorance of normal scheduling processes while engendering a new kind of work ethic.&lt;br /&gt;&lt;br /&gt;These days, we are used to the "total commitment" philosophy of managing technical creation, but Kidder was surprised and even a little alarmed at the obsessions and compulsions he found. From in-house political struggles to workers being permitted to tease management to marathon 24-hour work sessions, &lt;i&gt;The Soul of a New Machine&lt;/i&gt; explores concepts that already seem familiar, even old-hat, less than 20 years later. Kidder plainly admires his subjects; while he admits to hopeless confusion about their work, he finds their dedication heroic. The reader wonders, though, what will become of it all, now and in the future. &lt;i&gt;—Rob Lightner&lt;/i&gt;</description>
+<authors>
+<author>
+<id>4770</id>
+<name>Tracy Kidder</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1205329434p5/4770.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1205329434p2/4770.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4770.Tracy_Kidder]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>86919</ratings_count>
+<text_reviews_count>7567</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+<work>  <id>882196</id>
+  <uri>kca://work/amzn1.gr.work.v1.cexBznKPKtzfEW3J_85s5w</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf exclusive='true' id='269517124' name='currently-reading' review_shelf_id='2062444561' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jun 06 18:15:36 -0700 2018</started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 06 18:15:35 -0700 2018</date_added>
+  <date_updated>Wed Jun 06 18:15:36 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2415832469]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2415832469]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2415831649</id>
+    <book>
+  <id type="integer">816</id>
+  <isbn>0060512806</isbn>
+  <isbn13>9780060512804</isbn13>
+  <text_reviews_count type="integer">3888</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.QSkrlJtJiDTXEp2FYdr65Q</uri>
+  <title>Cryptonomicon</title>
+  <title_without_series>Cryptonomicon</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1327931476m/816.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327931476s/816.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/816.Cryptonomicon</link>
+  <num_pages>1139</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Avon</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>86424</ratings_count>
+  <description>Cryptonomicon zooms all over the world, careening conspiratorially back and forth between two time periods--World War II and the present. Our 1940s heroes are the brilliant mathematician Lawrence Waterhouse, crypt analyst extraordinaire, and gung-ho, morphine-addicted marine Bobby Shaftoe. They're part of Detachment 2702, an Allied group trying to break Axis communication codes while simultaneously preventing the enemy from figuring out that their codes have been broken. Their job boils down to layer upon layer of deception. Dr. Alan Turing is also a member of 2702, and he explains the unit's strange workings to Waterhouse. "When we want to sink a convoy, we send out an observation plane first... Of course, to observe is not its real duty--we already know exactly where the convoy is. Its real duty is to be observed... Then, when we come round and sink them, the Germans will not find it suspicious."&lt;br /&gt;&lt;br /&gt;All of this secrecy resonates in the present-day story line, in which the grandchildren of the WWII heroes--inimitable programming geek Randy Waterhouse and the lovely and powerful Amy Shaftoe--team up to help create an offshore data haven in Southeast Asia and maybe uncover some gold once destined for Nazi coffers. To top off the paranoiac tone of the book, the mysterious Enoch Root, key member of Detachment 2702 and the Societas Eruditorum, pops up with an unbreakable encryption scheme left over from WWII to befuddle the 1990s protagonists with conspiratorial ties.</description>
+<authors>
+<author>
+<id>545</id>
+<name>Neal Stephenson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1430920344p5/545.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1430920344p2/545.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/545.Neal_Stephenson]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>671933</ratings_count>
+<text_reviews_count>41439</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>1166797</id>
+  <uri>kca://work/amzn1.gr.work.v1.ZHP51Jz-iUiUSsnU37SnlA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="269517125" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 06 18:14:41 -0700 2018</date_added>
+  <date_updated>Wed Jun 06 18:14:42 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2415831649]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2415831649]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2415831605</id>
+    <book>
+  <id type="integer">830</id>
+  <isbn>0553380958</isbn>
+  <isbn13>9780553380958</isbn13>
+  <text_reviews_count type="integer">6543</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Mv00iX8AHqH7uoOWzxM3Fw</uri>
+  <title>Snow Crash</title>
+  <title_without_series>Snow Crash</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1477624625m/830.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1477624625s/830.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/830.Snow_Crash</link>
+  <num_pages>438</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Bantam Books</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>199880</ratings_count>
+  <description>In reality, Hiro Protagonist delivers pizza for Uncle Enzo’s CosoNostra Pizza Inc., but in the Metaverse he’s a warrior prince. Plunging headlong into the enigma of a new computer virus that’s striking down hackers everywhere, he races along the neon-lit streets on a search-and-destroy mission for the shadowy virtual villain threatening to bring about infocalypse. Snow Crash is a mind-altering romp through a future America so bizarre, so outrageous…you’ll recognize it immediately.</description>
+<authors>
+<author>
+<id>545</id>
+<name>Neal Stephenson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1430920344p5/545.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1430920344p2/545.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/545.Neal_Stephenson]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>671933</ratings_count>
+<text_reviews_count>41439</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+<work>  <id>493634</id>
+  <uri>kca://work/amzn1.gr.work.v1.ggMYpEsXebsvwhPq2heC6A</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="269517125" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 06 18:14:37 -0700 2018</date_added>
+  <date_updated>Wed Jun 06 18:14:39 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2415831605]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2415831605]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2415831542</id>
+    <book>
+  <id type="integer">40383049</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.yGxQVk2gBg466MXYGGWHEw</uri>
+  <title>In the Beginning...Was the Command Line</title>
+  <title_without_series>In the Beginning...Was the Command Line</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1528148148m/40383049.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1528148148s/40383049.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/40383049-in-the-beginning-was-the-command-line</link>
+  <num_pages>160</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>William Morrow</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.79</average_rating>
+  <ratings_count>6930</ratings_count>
+  <description>&lt;p&gt;This is "the Word" -- one man's word, certainly -- about the art (and artifice) of the state of our computer-centric existence. And considering that the "one man" is Neal Stephenson, "the hacker Hemingway" (&lt;em&gt;Newsweek&lt;/em&gt;) -- acclaimed novelist, pragmatist, seer, nerd-friendly philosopher, and nationally bestselling author of groundbreaking literary works (&lt;em&gt;Snow Crash, Cryptonomicon,&lt;/em&gt; etc., etc.) -- the word is well worth hearing. Mostly well-reasoned examination and partial rant, Stephenson's &lt;em&gt;In the Beginning... was the Command Line&lt;/em&gt; is a thoughtful, irreverent, hilarious treatise on the cyber-culture past and present; on operating system tyrannies and downloaded popular revolutions; on the Internet, Disney World, Big Bangs, not to mention the meaning of life itself.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>545</id>
+<name>Neal Stephenson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1430920344p5/545.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1430920344p2/545.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/545.Neal_Stephenson]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>671933</ratings_count>
+<text_reviews_count>41439</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>530507</id>
+  <uri>kca://work/amzn1.gr.work.v1.nR2bWB93i8YXl44Jzg3w1w</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="269517125" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 06 18:14:33 -0700 2018</date_added>
+  <date_updated>Wed Jun 06 18:14:34 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2415831542]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2415831542]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2415830551</id>
+    <book>
+  <id type="integer">134825</id>
+  <isbn>0596001088</isbn>
+  <isbn13>9780596001087</isbn13>
+  <text_reviews_count type="integer">127</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.J7I-TTYJF3Q8t-c1FZ9-dA</uri>
+  <title>The Cathedral &amp; the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary</title>
+  <title_without_series>The Cathedral &amp; the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1328835964m/134825.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1328835964s/134825.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar</link>
+  <num_pages>258</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2001</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.81</average_rating>
+  <ratings_count>3178</ratings_count>
+  <description>Open source provides the competitive advantage in the Internet Age. According to the August Forrester Report, 56 percent of IT managers interviewed at Global 2,500 companies are already using some type of open source software in their infrastructure and another 6 percent will install it in the next two years. This revolutionary model for collaborative software development is being embraced and studied by many of the biggest players in the high-tech industry, from Sun Microsystems to IBM to Intel.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;The Cathedral &amp;amp; the Bazaar&lt;/i&gt; is a must for anyone who cares about the future of the computer industry or the dynamics of the information economy. Already, billions of dollars have been made and lost based on the ideas in this book. Its conclusions will be studied, debated, and implemented for years to come. According to Bob Young, "This is Eric Raymond's great contribution to the success of the open source revolution, to the adoption of Linux-based operating systems, and to the success of open source users and the companies that supply them."&lt;br /&gt;&lt;br /&gt;The interest in open source software development has grown enormously in the past year. This revised and expanded paperback edition includes new material on open source developments in 1999 and 2000. Raymond's clear and effective writing style accurately describing the benefits of open source software has been key to its success. With major vendors creating acceptance for open source within companies, independent vendors will become the open source story in 2001.</description>
+<authors>
+<author>
+<id>18542</id>
+<name>Eric S. Raymond</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1265508525p5/18542.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1265508525p2/18542.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18542.Eric_S_Raymond]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>4991</ratings_count>
+<text_reviews_count>253</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+<work>  <id>100993</id>
+  <uri>kca://work/amzn1.gr.work.v1.tViXLaH3BL0v38d6PcdEOQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="269517125" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 06 18:13:23 -0700 2018</date_added>
+  <date_updated>Wed Jun 06 18:13:25 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2415830551]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2415830551]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>
