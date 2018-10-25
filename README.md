@@ -1,4 +1,4 @@
-# Goodreads Command Line Interface Tool
+# Goodreads Command Line Interface
 📚📚📚 Command-line tool that displays two random books in your currently-reading and to-read shelves on goodreads.com
 
 ![screenshot](https://i.imgur.com/HCE7Ish.png "In action")
